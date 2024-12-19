@@ -1,0 +1,7 @@
+¡Hola! 👋 Bienvenido a Heladería Ice Cream! 🍦
+Nos alegra que estés aquí. ¿Te gustaría realizar un pedido hoy? 😋🍨
+
+Responde con:
+
+"Sí" para continuar con tu pedido.
+"No" si prefieres salir.
