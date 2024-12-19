@@ -1916,3 +1916,1149 @@
   body: 'Buen día!',
   from: '5493813541077'
 }
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493813541077@s.whatsapp.net',
+    fromMe: false,
+    id: '1566456D391C45685252EE18E8C6C308',
+    participant: undefined
+  },
+  messageTimestamp: 1734573895,
+  pushName: 'Karen Herrera❤️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Malísimo tu bot Martin',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Malísimo tu bot Martin',
+  from: '5493813541077'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493813541077@s.whatsapp.net',
+    fromMe: false,
+    id: 'B8252CA05252D7C13A6C50195BBD284F',
+    participant: undefined
+  },
+  messageTimestamp: 1734573944,
+  pushName: 'Karen Herrera❤️',
+  broadcast: false,
+  message: Message {
+    conversation: 'La próxima Martin',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'La próxima Martin',
+  from: '5493813541077'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493813541077@s.whatsapp.net',
+    fromMe: false,
+    id: 'F87823ED8F223348DA614A0C8A787B6F',
+    participant: undefined
+  },
+  messageTimestamp: 1734573999,
+  pushName: 'Karen Herrera❤️',
+  broadcast: false,
+  message: Message {
+    conversation: 'A la mierda Martin',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'A la mierda Martin',
+  from: '5493813541077'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493813541077@s.whatsapp.net',
+    fromMe: false,
+    id: '4228B270FAD5E77EAFBDF21E98CDE9C3',
+    participant: undefined
+  },
+  messageTimestamp: 1734574001,
+  pushName: 'Karen Herrera❤️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajajaj',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Jajajaj',
+  from: '5493813541077'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A6B96B3BDECC934362A',
+    participant: undefined
+  },
+  messageTimestamp: 1734574073,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que pazoooo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Que pazoooo',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493813541077@s.whatsapp.net',
+    fromMe: false,
+    id: '231F26479F2FE83D7DF032AF946554B0',
+    participant: undefined
+  },
+  messageTimestamp: 1734574107,
+  pushName: 'Karen Herrera❤️',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '.',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '.',
+  from: '5493813541077'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493813541077@s.whatsapp.net',
+    fromMe: false,
+    id: '011505A060F6E7019993BCD88AF3FA6C',
+    participant: undefined
+  },
+  messageTimestamp: 1734574110,
+  pushName: 'Karen Herrera❤️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Jajaja',
+  from: '5493813541077'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A37835A5A0613608393',
+    participant: undefined
+  },
+  messageTimestamp: 1734574119,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'A ver chicooo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'A ver chicooo',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3ADBCD7AE923A984251D',
+    participant: undefined
+  },
+  messageTimestamp: 1734574123,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'No me vas a robar los datos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'No me vas a robar los datos',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3B244A019A790E4238',
+    participant: undefined
+  },
+  messageTimestamp: 1734574167,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Bueno',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Bueno',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACBF4818FBE7032CA54',
+    participant: undefined
+  },
+  messageTimestamp: 1734574168,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Aver',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Aver',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816544607@s.whatsapp.net',
+    fromMe: false,
+    id: '3AAB8E158524D5795C25',
+    participant: undefined
+  },
+  messageTimestamp: 1734574210,
+  pushName: 'Lautaro N',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5493816544607'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_670e9f7e-2f38-4400-9ee0-227a8665e722',
+  keyword: 'key_abd3dca4-b4f5-46ca-b688-cd8f98f5f5bc',
+  answer: '👋 *¡Bienvenido a Heladería Ice Cream!* 🍦',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f5065581b93863564785145e01b66a45'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_db7520bf-2c9a-4e04-84a2-71ad0b25f2ea',
+  keyword: 'ans_670e9f7e-2f38-4400-9ee0-227a8665e722',
+  answer: "¿Te gustaría realizar un pedido hoy? Responde con 'Sí' para continuar o 'No' para salir.",
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'bdc401304340a5ff1beb9907c0efca20'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816544607@s.whatsapp.net',
+    fromMe: false,
+    id: '3A00A07896136AE8CF33',
+    participant: undefined
+  },
+  messageTimestamp: 1734574218,
+  pushName: 'Lautaro N',
+  broadcast: false,
+  message: Message {
+    conversation: 'No se',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No se',
+  from: '5493816544607'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816544607@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9EBFD7E9F32BCE5B21',
+    participant: undefined
+  },
+  messageTimestamp: 1734574228,
+  pushName: 'Lautaro N',
+  broadcast: false,
+  message: Message {
+    conversation: 'K',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'K',
+  from: '5493816544607'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816544607@s.whatsapp.net',
+    fromMe: false,
+    id: '3A910870B7EEC0E8A529',
+    participant: undefined
+  },
+  messageTimestamp: 1734574233,
+  pushName: 'Lautaro N',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Si',
+  from: '5493816544607'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816544607@s.whatsapp.net',
+    fromMe: false,
+    id: '3A39F01997E0171FE0AC',
+    participant: undefined
+  },
+  messageTimestamp: 1734574241,
+  pushName: 'Lautaro N',
+  broadcast: false,
+  message: Message {
+    conversation: '6',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '6',
+  from: '5493816544607'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1CD3F5C4B4CA5C06BD',
+    participant: undefined
+  },
+  messageTimestamp: 1734574306,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Hola',
+  from: '5493814060647'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_670e9f7e-2f38-4400-9ee0-227a8665e722',
+  keyword: 'key_abd3dca4-b4f5-46ca-b688-cd8f98f5f5bc',
+  answer: '👋 *¡Bienvenido a Heladería Ice Cream!* 🍦',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f5065581b93863564785145e01b66a45'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_db7520bf-2c9a-4e04-84a2-71ad0b25f2ea',
+  keyword: 'ans_670e9f7e-2f38-4400-9ee0-227a8665e722',
+  answer: "¿Te gustaría realizar un pedido hoy? Responde con 'Sí' para continuar o 'No' para salir.",
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'bdc401304340a5ff1beb9907c0efca20'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABECA0E949C7A32598C',
+    participant: undefined
+  },
+  messageTimestamp: 1734574312,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Si',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACA5AEC80A973E6EB46',
+    participant: undefined
+  },
+  messageTimestamp: 1734574326,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: '1\n5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: '1\n5',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1E47F2BEA4C07C2CE0',
+    participant: undefined
+  },
+  messageTimestamp: 1734574332,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: '1',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A350FA2053492A525D8',
+    participant: undefined
+  },
+  messageTimestamp: 1734574367,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pistacho, fresa, coco',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Pistacho, fresa, coco',
+  from: '5493814060647'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3b9934c0-7b97-4209-b2fa-da9379b86a62',
+  keyword: 'ans_fb204994-466b-47b7-8caa-314e4ba05021',
+  answer: "¿Deseas agregar más productos al carrito? 'Si' para agregar otro producto 'No' Para seguir y terminar el pedido",
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '31d46e63af880968fe8e96106cd6a52f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE1285E5EB583CD88D2',
+    participant: undefined
+  },
+  messageTimestamp: 1734574373,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Si',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8B114DBB2187F546C8',
+    participant: undefined
+  },
+  messageTimestamp: 1734574381,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: '5',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A10139C482E6BCCA039',
+    participant: undefined
+  },
+  messageTimestamp: 1734574408,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Triple chocolate',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Triple chocolate',
+  from: '5493814060647'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d997ad53-5ae5-48b7-a454-da8a746cc7fc',
+  keyword: 'ans_021d27c9-b4ea-4fed-81ec-6786bcf38256',
+  answer: "¿Deseas agregar más productos al carrito? 'Si' para agregar otro producto 'No' Para seguir y terminar el pedido",
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c835145c80aea7bcea574b51c1b4c8e9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1383DF5D8D3C080D7A',
+    participant: undefined
+  },
+  messageTimestamp: 1734574423,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Si',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8753A3D94C3DA33DF6',
+    participant: undefined
+  },
+  messageTimestamp: 1734574428,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: '5',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF17DD05D5D39585F0D',
+    participant: undefined
+  },
+  messageTimestamp: 1734574438,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mango tropical con salsa de chocolate',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Mango tropical con salsa de chocolate',
+  from: '5493814060647'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d997ad53-5ae5-48b7-a454-da8a746cc7fc',
+  keyword: 'ans_021d27c9-b4ea-4fed-81ec-6786bcf38256',
+  answer: "¿Deseas agregar más productos al carrito? 'Si' para agregar otro producto 'No' Para seguir y terminar el pedido",
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c835145c80aea7bcea574b51c1b4c8e9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A6E99AE23F193F78505',
+    participant: undefined
+  },
+  messageTimestamp: 1734574445,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'No',
+  from: '5493814060647'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc3ab049-5380-4034-9bf3-10fe490a4c9a',
+  keyword: 'ans_d997ad53-5ae5-48b7-a454-da8a746cc7fc',
+  answer: '🙋‍♂️ *Por favor, indícanos tu nombre y apellido:*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'baaca74c74131246d7402fd235d79bd2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3ADA0E0D476938DE897D',
+    participant: undefined
+  },
+  messageTimestamp: 1734574452,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pepe pipu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Pepe pipu',
+  from: '5493814060647'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_890915a0-092f-4113-b8f4-f28688f12a68',
+  keyword: 'ans_cc3ab049-5380-4034-9bf3-10fe490a4c9a',
+  answer: '🏠 *Escribe la dirección a la que deseas que enviemos tu pedido:*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b064f7c47f9b62e0686d174902d1bfdd'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEB2FB90B3917FB9F57',
+    participant: undefined
+  },
+  messageTimestamp: 1734574463,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Córdoba 123',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Córdoba 123',
+  from: '5493814060647'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c03ed54d-b91a-496e-aba3-eb97e5084ae4',
+  keyword: 'ans_890915a0-092f-4113-b8f4-f28688f12a68',
+  answer: "✅ *Si estás listo para confirmar tu pedido, escribe:* _'Sí', 'Ok' o 'Aceptar'._ o para cancelar: 'No'.",
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'edf49446ccba201812e2eebce2f89693'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC21EAC6DAD37828A0F',
+    participant: undefined
+  },
+  messageTimestamp: 1734574469,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Si',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A171350F4A0A2F4B4E7',
+    participant: undefined
+  },
+  messageTimestamp: 1734574485,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Ok',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7BEFECEB3A93892844',
+    participant: undefined
+  },
+  messageTimestamp: 1734574495,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Toma voooo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Toma voooo',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0BAFE332E8DD6D3C54',
+    participant: undefined
+  },
+  messageTimestamp: 1734574497,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajajaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Jajajaja',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0E484C5F004C651E78',
+    participant: undefined
+  },
+  messageTimestamp: 1734574501,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Para quien le hiciste',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Para quien le hiciste',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493816689218@s.whatsapp.net',
+    fromMe: false,
+    id: '573CB05890C75F4F4A628E8886997784',
+    participant: undefined
+  },
+  messageTimestamp: 1734574679,
+  pushName: 'Nati Paz',
+  broadcast: false,
+  message: Message {
+    conversation: 'Amigo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Amigo',
+  from: '5493816689218'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A106684134B6BDC585B',
+    participant: undefined
+  },
+  messageTimestamp: 1734574739,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Está tremendo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Está tremendo',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD594C576CEC9F2D479',
+    participant: undefined
+  },
+  messageTimestamp: 1734574744,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Y los datos q recolecta',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Y los datos q recolecta',
+  from: '5493814060647'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_670e9f7e-2f38-4400-9ee0-227a8665e722',
+  keyword: 'key_abd3dca4-b4f5-46ca-b688-cd8f98f5f5bc',
+  answer: '👋 *¡Bienvenido a Heladería Ice Cream!* 🍦',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f5065581b93863564785145e01b66a45'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_db7520bf-2c9a-4e04-84a2-71ad0b25f2ea',
+  keyword: 'ans_670e9f7e-2f38-4400-9ee0-227a8665e722',
+  answer: "¿Te gustaría realizar un pedido hoy? Responde con 'Sí' para continuar o 'No' para salir.",
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'bdc401304340a5ff1beb9907c0efca20'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEE373D1D32DDDC765B',
+    participant: undefined
+  },
+  messageTimestamp: 1734574747,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Como los manda',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'Como los manda',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACCEE7B4BE7A80845E2',
+    participant: undefined
+  },
+  messageTimestamp: 1734574749,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'O no es',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: 'O no es',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3A33C6E633906CDC52DE',
+    participant: undefined
+  },
+  messageTimestamp: 1734574752,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ay',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  status: 4,
+  body: 'Ay',
+  from: '5493814060647'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814060647@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC11836368D4648C745',
+    participant: undefined
+  },
+  messageTimestamp: 1734574769,
+  pushName: 'Agus Pucharras',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/21322479_799496258965127_563252488668344148_n.enc?ccb=11-4&oh=01_Q5AaIIWSbJNoDFnYDAcw2rL_EkxbuzAlEIg2A2C-KUWiJmZ-&oe=678AF2E2&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/21322479_799496258965127_563252488668344148_n.enc?ccb=11-4&oh=01_Q5AaIIWSbJNoDFnYDAcw2rL_EkxbuzAlEIg2A2C-KUWiJmZ-&oe=678AF2E2&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false,
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Agus Pucharras',
+  body: '_event_media__0063ebc9-d0a3-41a0-a518-f298d522c4cf',
+  from: '5493814060647'
+}
