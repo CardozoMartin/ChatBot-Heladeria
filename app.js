@@ -274,7 +274,7 @@ const flowMenuProductos = addKeyword(EVENTS.ACTION)
 
 
 // Flujo principal
-const flowPrincipal = addKeyword(['hola', 'ole', 'alo'])
+const flowPrincipal = addKeyword(['hola heladeria'])
     .addAnswer('👋 *¡Bienvenido a Heladería Ice Cream!* 🍦')
     .addAnswer("¿Te gustaría realizar un pedido hoy? Responde con 'Sí' para continuar o 'No' para salir.", { capture: true }, async (ctx, { gotoFlow, fallbBack, flowDynamic }) => {
         const res = ctx.body;
