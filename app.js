@@ -310,7 +310,9 @@ const main = async () => {
         database: adapterDB,
     });
 
-    QRPortalWeb(); // Inicia el portal QR
+    QRPortalWeb({
+        port: process.env.PORT || 8000
+    });
 };
 
 main();
